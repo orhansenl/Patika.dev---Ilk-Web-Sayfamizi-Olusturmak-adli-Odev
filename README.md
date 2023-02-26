@@ -5,4 +5,4 @@
 - Web sitenizi kaydederken dosya adı olarak 'index.html' seçmeniz gerekmektedir.
 - Yazdığınız kodları açıklayan yorum satırları eklemeyi unutmayın.
 
-** Yukarıdaki maddelere uyularak yapılmış olan bir HTML sayfası.**
+**Yukarıdaki maddelere uyularak yapılmış olan bir HTML sayfası**
