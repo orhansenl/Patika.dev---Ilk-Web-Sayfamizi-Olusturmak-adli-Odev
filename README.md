@@ -9,3 +9,4 @@
 - Bunları sıralarken film ve dizilerin en az bir tanesine IMDb linki, kitapların bir tanesine de** Goodreads linkini** yazınız.
 
 **Yukarıdaki maddelere uyularak yapılmış olan bir HTML sayfası**
+-git için yapılan değişiklik
